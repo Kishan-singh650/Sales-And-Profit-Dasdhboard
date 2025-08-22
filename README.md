@@ -1,6 +1,6 @@
 # 📊 Sales & Profit Analysis Dashboard  
 
-![Dashboard Screenshot](Sales And Profit Dashboard SS.png)
+![Dashboard Screenshot]("C:\Users\Hp\Pictures\Screenshots\Sales And Profit Dashboard SS.png")
 
 ## 📌 Project Overview  
 This repository contains a **Sales & Profit Analysis Dashboard** designed to provide key insights into sales performance, profit trends, and customer behavior. The dashboard enables businesses to monitor sales growth, track profitability, and analyze customer segments for better decision-making.  
